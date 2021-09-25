@@ -78,6 +78,8 @@ The blurry border of the masks has several purposes:
 - Allows easily sitting pictures in different aspect ratios.
 - Fades the hard borders of the pictures.
 
+![Card sample with GIMP](doc/card-gimp.jpg)
+
 Then, we will hide the top layer which is showing the bottom black box
 representing the area that won't be visible in our card because other
 objects will be on top. Once this is done, we can
@@ -110,6 +112,8 @@ same steps in the second page.
 Next, we will adjust the texts from the banners in the first and
 second page. The font used for them is
 [Ibarra Real Nova][ibarra-real-nova].
+
+![Card sample with Scribus](doc/card-scribus.jpg)
 
 Finally, we'll export the document as a
 [PDF X/3][scribus-pdf-x3]. Since I live in Europe, I've used the
@@ -150,6 +154,8 @@ anniversary and place them instead of the 2 gray boxes. Then, adjust
 the text of the dates for the pictures. The fonts used in this design
 are Ibarra Real Nova and [Tesla][tesla].
 
+![Tin box sample with Inkscape](doc/tin-box-inkscape.jpg)
+
 The
 [tin-box-wedding-rings.svgz](samples/tin-box-wedding-rings.svgz)
 file is a sample in which the process described above has been done
@@ -166,6 +172,8 @@ can convert this PNG file to TIFF format within a CMYK color
 space. Again, in my case I used the PSO Coated v3 color profile. With
 Krita you can
 [Image > Convert Image Color Space...][krita-convert-image-color-space].
+
+![Tin box sample with Krita](doc/tin-box-krita.jpg)
 
 [tin-box-wedding-rings.tif](samples/tin-box-wedding-rings.tif)
 is a TIFF picture resulting of doing the process described above.
