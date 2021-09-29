@@ -152,7 +152,7 @@ open the file with [Inkscape][inkscape], [import][inkscape-import] the
 pictures you want to use for the initial and end date of the 50th
 anniversary and place them instead of the 2 gray boxes. Then, adjust
 the text of the dates for the pictures. The fonts used in this design
-are Ibarra Real Nova and [Tesla][tesla].
+are Ibarra Real Nova, [DreadLox][dreadlox], and [Tesla][tesla].
 
 ![Tin box sample with Inkscape](doc/tin-box-inkscape.jpg)
 
@@ -181,6 +181,7 @@ is a TIFF picture resulting of doing the process described above.
 
 [inkscape]: https://inkscape.org/
 [inkscape-import]: http://tavmjong.free.fr/INKSCAPE/MANUAL/html/File-Import.html
+[dreadlox]: https://blogfonts.com/dreadlox.font
 [tesla]: http://www.tipometar.org/kolumne/PersonalFont/IndexEng.html
 [inkscape-export]: http://tavmjong.free.fr/INKSCAPE/MANUAL/html/File-Export.html
 [krita]: https://krita.org/
